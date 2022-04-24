@@ -9,7 +9,7 @@ Com ele, é possível cadastrar uma nova venda e ao fim gerar um PDF imprimível
 
  - Visual Studio Community 2022;
  - C# 10;
- - .Net 5.0;
+ - .Net 6.0;
  - Windows Forms;
  - SQLite;
  - iTextSharp.
@@ -44,7 +44,7 @@ All your files and folders are presented as a tree in the file explorer. You can
 ## Requisitos
 ### Instalações
 Para rodar essa aplicação, será necessário ter instalado o [Visual Studio ou Visual Studio Code](https://visualstudio.microsoft.com/pt-br/downloads/) em sua máquina.
-É necessário fazer a instalação do [.Net Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0) para que a aplicação possa rodar.
+É necessário fazer a instalação do [.Net Runtime](https://dotnet.microsoft.com/en-us/download) para que a aplicação possa rodar.
 
 ### Clonar repositório
 Utilize o link abaixo, com o comando ***git clone*** para clonar o repositório:
