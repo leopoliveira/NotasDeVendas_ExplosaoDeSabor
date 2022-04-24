@@ -20,22 +20,22 @@ Com ele, é possível cadastrar uma nova venda e ao fim gerar um PDF imprimível
 Cria uma nova venda, permitindo a seleção de clientes e itens da venda.
 Há a verificação do preenchimento dos campos da venda, bem como validação dos dados inseridos.
 
-print da tela
+![image](https://user-images.githubusercontent.com/35302072/164954107-e416ae58-1957-429b-a8fb-c4335a58996a.png)
 
 ### Produtos
 Criação de edição de produtos.
 Há a verificação do preenchimento dos campos, bem como validação dos dados inseridos.
 
-print da tela
+![image](https://user-images.githubusercontent.com/35302072/164954116-93a924f9-d02b-4b59-b1e4-953eb16cc56c.png)
 
 ### Clientes
 Criação de edição de clientes do estabelecimento.
 Há a verificação do preenchimento dos campos, bem como validação dos dados inseridos.
 
-print da tela
+![image](https://user-images.githubusercontent.com/35302072/164954127-7dd3f742-828c-4b01-9c90-faba4a5dee16.png)
 
 ### Dashboard
-Ainda não implantado.
+***Ainda não implantado.***
 
 ## 
 
