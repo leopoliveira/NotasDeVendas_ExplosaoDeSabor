@@ -37,9 +37,6 @@ Há a verificação do preenchimento dos campos, bem como validação dos dados 
 ### Dashboard
 ***Ainda não implantado.***
 
-## 
-
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
 
 ## Requisitos
 ### Instalações
